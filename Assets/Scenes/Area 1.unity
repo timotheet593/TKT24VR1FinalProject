@@ -548,7 +548,7 @@ VideoPlayer:
   - 1
   m_Url: 
   m_EnabledAudioTracks: 01
-  m_DirectAudioMutes: 00
+  m_DirectAudioMutes: 01
   m_ControlledAudioTrackCount: 1
   m_PlayOnAwake: 1
   m_SkipOnDrop: 1
@@ -3209,7 +3209,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8053059486601427065, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_MoveSpeed
-      value: 7.5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 8806329115733545877, guid: 77e7c27b2c5525e4aa8cc9f99d654486, type: 3}
       propertyPath: m_Name
@@ -5327,15 +5327,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 5ce92c11d302cb14a816b5407e9d4a85, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4.43
+      value: 7.9600005
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ce92c11d302cb14a816b5407e9d4a85, type: 3}
       propertyPath: m_LocalScale.y
-      value: 4.43
+      value: 7.9600005
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ce92c11d302cb14a816b5407e9d4a85, type: 3}
       propertyPath: m_LocalScale.z
-      value: 4.43
+      value: 7.9600005
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ce92c11d302cb14a816b5407e9d4a85, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5343,11 +5343,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ce92c11d302cb14a816b5407e9d4a85, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.179
+      value: 2.141
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ce92c11d302cb14a816b5407e9d4a85, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 24.769
+      value: 26.607
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5ce92c11d302cb14a816b5407e9d4a85, type: 3}
       propertyPath: m_LocalRotation.w
